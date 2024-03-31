@@ -1,0 +1,6 @@
+# ~ ~ ~ ~ ~ ~ ~ ~ OM SHRI GANESHAAYA NAMAHA ~ ~ ~ ~ ~ ~ ~ ~ 
+ 
+	streamlit
+	joblib
+	numpy
+	scipy
